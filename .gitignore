@@ -1,0 +1,24 @@
+# Bundler
+.bundle/
+vendor/
+
+# Gemfile.lock (remove this line if you want to version control the lockfile)
+Gemfile.lock
+
+# Log files
+*.log
+
+# Files generated during runtime
+*.bak
+
+# Temporary files
+*.swp
+*.swo
+*~
+.DS_Store
+
+# System generated files
+Thumbs.db
+
+# API key
+config/openai_key.txt
